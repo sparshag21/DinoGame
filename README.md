@@ -1,0 +1,1 @@
+Run the script camera.py and open google chrome in offline mode to start playing!
